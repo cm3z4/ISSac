@@ -24,3 +24,8 @@ app.on('ready', function () {
     });
 
 });
+
+// Kill all processes after quitting the application.
+app.on('window-all-closed', () => {
+    app.quit();
+  });

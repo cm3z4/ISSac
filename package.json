@@ -1,6 +1,6 @@
 {
   "name": "issac",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple Electron application to view the International Space Station (ISS) live feed.",
   "main": "main.js",
   "scripts": {
