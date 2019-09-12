@@ -1,6 +1,8 @@
 # ISSac
 ###### Version: 0.1.1
 
+# This project has been abandoned, now that NASA has ended the HDEV experiment. What a shame...
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Description
